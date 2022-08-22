@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://images.alphacoders.com/709/70931.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    min-width: 420px;
+}
+
+
+#card{
+    border-radius: 50px;
+    position: relative;
+    box-shadow: 0px 5px 15px rgb(0, 0, 0, 0.5);
+}
